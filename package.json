@@ -1,0 +1,27 @@
+{
+  "name": "story.md",
+  "version": "0.0.1",
+  "description": "Use markdown and cloud storage server to keep a diary or write your blog.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soulteary/Story.md.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soulteary/Story.md/issues"
+  },
+  "homepage": "https://github.com/soulteary/Story.md#readme",
+  "dependencies": {
+    "collapse-whitespace": "^1.1.2",
+    "lie-fs": "^1.2.0"
+  },
+  "devDependencies": {
+    "fs-extra": "^0.26.5",
+    "moment": "^2.12.0"
+  }
+}
